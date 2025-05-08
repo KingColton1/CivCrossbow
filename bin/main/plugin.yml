@@ -1,0 +1,7 @@
+name: CivCrossbow
+version: 1.0.0
+main: net.kingcolton1.crossbow.CivCrossbow
+description: Crossbow designed for Civ servers. Revolutionizing Civ warfares.
+author: KingColton1
+website: https://capcolton.net
+api-version: '1.21.4'
